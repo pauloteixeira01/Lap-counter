@@ -1,0 +1,35 @@
+@import url('//fonts.googleapis.com/css2?family=Caladea:ital@1&display=swap');
+
+* {
+    font-family: 'Caladea', serif;
+    text-align: center;
+    margin:0px;
+}
+
+.voltas {
+    font-weight: bold;
+    font-size: 64px;
+}
+
+.voltas span{
+    font-size: 200px;
+}
+
+button {
+    background-color:#f9f9f9;
+    border: 2px solid black;
+    font-size: 18px;
+    padding:1%;
+    margin:1%;
+}
+
+.tempo span {
+    font-weight: bold;
+    font-size: 64px;
+}
+
+.bigger {
+    font-size: 144px;
+    font-weight: bold;
+    line-height: 50px;
+}
